@@ -93,7 +93,7 @@ body{
         border-radius:10px;
         text-align: center;
         justify-items: center;
-        background-image: url(/static/images/sexy-2.jpg);
+        background-image: url(static/images/sexy-2.jpg);
         background-position:center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -168,7 +168,7 @@ body{
     .hero-2-e-img{
         height:80vh;
         width:350px;
-        background-image: url(/static/images/sexy-1.jpg);
+        background-image: url(static/images/sexy-1.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -500,7 +500,7 @@ body{
     margin:2px;
 }
 #main-product-1{
-    background-image: url(/static/images/girls/section-1/product-1.png);
+    background-image: url(static/images/girls/section-1/product-1.png);
     background-size: cover;
     background-position: center;
 
